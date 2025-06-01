@@ -1,4 +1,4 @@
-title: {{ login }} My first page on github
+title: {{ LuizRicJunior }} My first page on github
 theme: minima
-author: {{ login }}
+author: {{ LuizRicJunior }}
 description: Hello Wolrd
